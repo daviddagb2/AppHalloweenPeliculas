@@ -10,7 +10,7 @@
 
 ## ¿Cómo funciona? 🔧
 
-1. **Clona el repositorio**: `git clone https://github.com/tu_usuario/tu_repositorio.git`
+1. **Clona el repositorio**: `git clone https://github.com/daviddagb2/AppHalloweenPeliculas.git`
 2. Abre el proyecto con Android Studio.
 3. Ejecuta la app en un emulador o dispositivo físico.
 
